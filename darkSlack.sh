@@ -20,7 +20,7 @@ JS="
 ${JS_START}
 document.addEventListener('DOMContentLoaded', function() {
   // Fetch our CSS in parallel ahead of time
-  const cssPath = 'https://raw.githubusercontent.com/caiceA/slack-raw/master/slack-4';
+  const cssPath = 'https://raw.githubusercontent.com/alicankustemur/slack-dark-theme/master/slack4';
   let cssPromise = fetch(cssPath).then((response) => response.text());
 
   // Insert a style tag into the wrapper view
