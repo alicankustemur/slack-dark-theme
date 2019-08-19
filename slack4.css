@@ -932,6 +932,7 @@ a.file_download_link:hover {
     line-height: 16px;
     font-size: 17px;
    font-weight:700;
+   color: #E98E3A;
 }
 .p-channel_sidebar {
     border-right: 1px solid #464646 !important;}
@@ -1815,7 +1816,7 @@ color:white;}
     font-weight: 900;
     font-size: 24px;
     line-height: 32px;
-    color: #E98E3A;}
+    color:white; }
     .p-shortcuts_flexpane__shortcut {
     border-color: #3b3b3b;}
     .p-shortcuts_flexpane__shortcut:last-of-type {
