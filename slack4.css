@@ -1043,7 +1043,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
     }
     .unread_group .unread_group_header .unread_group_mark, .unread_group .unread_group_header .unread_keyboard{
         background: #339252 !important;
-        color: white !important;
+        color: #E98E3A !important;
     }
     .p-threads_footer__input {
         background:black;
