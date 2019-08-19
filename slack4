@@ -819,7 +819,7 @@ a:hover {
     background #222222 !important;
 }
 code {
-    color: #29ffe8!important;
+    color: #E98E3A!important;
 }
 .searchable_member_list_filter {
     border-bottom: 1px solid #4B4B4B !important;
