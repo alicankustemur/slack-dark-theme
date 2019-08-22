@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&display=swap');
 body {
-font-family: 'Lato', sans-serif !important;
+font-family: 'Lato', sans-serif;
     text-rendering: optimizeLegibility important;
     word-spacing: -1px;
     -webkit-font-smoothing: auto;
@@ -233,10 +233,10 @@ color:white;}
 div.c-virtual_list__scroll_container{
 color:white}
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
-   font-family: 'Lato', sans-serif !important;
+   font-family: 'Lato', sans-serif;
 }
 .p-threads_footer__input--legacy .p-message_input_field .ql-editor {
-  font-family: 'Lato', sans-serif !important;
+  font-family: 'Lato', sans-serif;
 }
 div.c-message.c-message--light.c-message--hover {
     color: grey !important;
